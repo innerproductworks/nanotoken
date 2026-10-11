@@ -28,8 +28,8 @@ dependencies = ["numpy>=1.24"]
 nanotoken = "nanotoken._cli:main"
 
 [project.urls]
-Repository = "https://github.com/alexlilburn/nanotoken"
-Issues = "https://github.com/alexlilburn/nanotoken/issues"
+Repository = "https://github.com/innerproductworks/nanotoken"
+Issues = "https://github.com/innerproductworks/nanotoken/issues"
 
 [dependency-groups]
 dev = [
